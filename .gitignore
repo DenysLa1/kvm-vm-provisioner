@@ -1,0 +1,21 @@
+# Virtual machine disk images
+*.qcow2
+*.img
+*.raw
+*.iso
+
+# Local VM images
+images/
+
+# Sensitive files
+*.pem
+*.key
+.env
+
+# Temporary files
+*.log
+*.tmp
+
+# Editor and Python cache
+.vscode/
+__pycache__/
