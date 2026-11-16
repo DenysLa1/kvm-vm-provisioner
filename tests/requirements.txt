@@ -1,0 +1,2 @@
+# Test-only dependency; the provisioning CLI does not use Python.
+PyYAML>=6,<7
