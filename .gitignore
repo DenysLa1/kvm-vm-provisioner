@@ -19,3 +19,5 @@ images/
 # Editor and Python cache
 .vscode/
 __pycache__/
+# Local Python virtual environment
+.venv/
